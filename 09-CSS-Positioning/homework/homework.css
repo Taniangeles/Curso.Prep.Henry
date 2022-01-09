@@ -48,3 +48,35 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 }
 
 /* Ejercicio 7. */
+#ejercicioSiete{ 
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    font-size: 15px;
+    background-color: brown;
+    padding: 10px;
+    border: 10px solid;
+}
+#elementoUno{
+    display: flex;
+    align-self: center;
+    align-content: center;
+    background-color: burlywood;
+    border: solid black;
+}
+#elementoDos{
+    display: flex;
+    align-content: center;
+    background-color: burlywood;
+    border: solid black;
+}
+#elementoTres{
+    display: flex;
+    align-content: center;
+    background-color: burlywood;
+    border: solid black;}
+#elementoCuatro{
+    display: flex;
+    align-content: center;
+    background-color: burlywood;
+    border: solid black;}
